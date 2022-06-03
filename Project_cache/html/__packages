@@ -1,0 +1,10 @@
+ggplot2
+lattice
+caret
+rpart
+randomForest
+corrplot
+kernlab
+tibble
+bitops
+rattle
